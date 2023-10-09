@@ -11,13 +11,14 @@
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).<br>
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/).<br>
+
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Projeto (Backend):
 
 ```bash
-
 # Clone este repositório
 $ git clone git@github.com:igorfelipedev/Banco-Seguro.git
 
@@ -31,7 +32,6 @@ $ npm install
 $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000 
-
 ```
 ---
 
