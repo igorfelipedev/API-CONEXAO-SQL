@@ -1,7 +1,7 @@
 # 🏢 BANCO SEGURO
 
 <h4 align="center"> 
-	🚧 SAFE BANK 🚧
+	🚧 BANCO SEGURO 🚧
 </h4>
 
 <p align="center">
